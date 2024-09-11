@@ -2,8 +2,8 @@
 
 
 Developed by:
-1. [Deepa Kushwaha](https://github.com/deepakush)
-2. [Prateek Ralhan](https://github.com/prateekralhan)
+1. [Hari Praveen Kumar](https://github.com/theExplorer1369)
+2. [ Aahuya Rakshakahari Lakshminarasimhan]
 
 ### Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
