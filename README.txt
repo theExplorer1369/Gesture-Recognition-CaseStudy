@@ -3,8 +3,8 @@
 PG Diploma in Machine Learning and AI from IIIT Bangalore | Upgrad
 
 Developed by:
-1. Deepa Kushwaha - Group facilitator
-2. Prateek Ralhan
+1. Hari Praveen Kumar - Group facilitator
+2. Aahuya Rakshakahari Lakshminarasimhan
 
 ******** COHORT 11 *************
 
